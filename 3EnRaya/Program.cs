@@ -18,7 +18,7 @@ namespace _3EnRaya
             string jugador2 = "";
 
             Console.WriteLine("¡Bienvenido al 3 en Raya!");
-            Console.WriteLine("_________________________");
+            Console.WriteLine("______________________________________");
             Console.WriteLine();
             //Console.WriteLine("Jugador 1. Introduce tu nombre:");
             
